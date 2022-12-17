@@ -1,0 +1,28 @@
+.cryptoStatsBox {
+  max-width: 900px;
+  min-height: 175px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+}
+
+.cryptoStatsCard {
+  text-align: left;
+}
+
+.cryptoStatsTitle {
+  font-size: 24px;
+  color: #494949;
+  margin: 15px 0;
+}
+
+.cryptoStatsData {
+  font-size: 28px;
+  margin: 15px 0;
+  color: #292929;
+}
